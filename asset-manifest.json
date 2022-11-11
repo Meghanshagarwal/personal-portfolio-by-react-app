@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/personall-portfolio/static/css/main.12e75613.css",
+    "main.js": "/personall-portfolio/static/js/main.42e14567.js",
+    "static/media/profile4.jpg": "/personall-portfolio/static/media/profile4.4ab8af01a8235e14cedb.jpg",
+    "static/media/profile2.jpg": "/personall-portfolio/static/media/profile2.f06fca54c21ce8c6696a.jpg",
+    "static/media/profile3.jpg": "/personall-portfolio/static/media/profile3.990bf8344d8845fea242.jpg",
+    "static/media/profile5.jpg": "/personall-portfolio/static/media/profile5.80b49bbff5d315ae0599.jpg",
+    "static/media/onlinekhanaa.png": "/personall-portfolio/static/media/onlinekhanaa.813835ed6a84332478f5.png",
+    "static/media/responsivewebsite.png": "/personall-portfolio/static/media/responsivewebsite.ccce8ca814141f33547f.png",
+    "static/media/covidworld.png": "/personall-portfolio/static/media/covidworld.8ea15cb7f3f9a241370c.png",
+    "static/media/spotifyclone.png": "/personall-portfolio/static/media/spotifyclone.d9fbd3e523ece5a896d2.png",
+    "static/media/resume.pdf": "/personall-portfolio/static/media/resume.944ae2c2747f86318de8.pdf",
+    "static/media/boy.png": "/personall-portfolio/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/glassesimoji.png": "/personall-portfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/chatbox.png": "/personall-portfolio/static/media/chatbox.5101a7893263f0916a92.png",
+    "static/media/logoo.png": "/personall-portfolio/static/media/logoo.2e0ea6829591d6ea374c.png",
+    "static/media/thumbup.png": "/personall-portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/personall-portfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/personall-portfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/logoo1.png": "/personall-portfolio/static/media/logoo1.cf2ce5071434cd46b20f.png",
+    "static/media/logoo3.png": "/personall-portfolio/static/media/logoo3.fb063af684212cde2239.png",
+    "static/media/wave.png": "/personall-portfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/personall-portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/personall-portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/personall-portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/logoo4.png": "/personall-portfolio/static/media/logoo4.41d967e24c8d876e2c39.png",
+    "static/media/logoo2.png": "/personall-portfolio/static/media/logoo2.fa99f4b84a5c7956c162.png",
+    "index.html": "/personall-portfolio/index.html",
+    "main.12e75613.css.map": "/personall-portfolio/static/css/main.12e75613.css.map",
+    "main.42e14567.js.map": "/personall-portfolio/static/js/main.42e14567.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12e75613.css",
+    "static/js/main.42e14567.js"
+  ]
+}
