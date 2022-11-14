@@ -39,8 +39,12 @@ const Intro = () => {
         </Link>
 
         <div className="i-icons">
-          <img src={Github} alt="" />
-          <img src={LinkedIn} alt="" />
+        <a href="https://github.com/Meghanshagarwal" target="_blank" rel="noreferrer">
+          <img src={Github} alt="" /></a>
+          <a href="https://www.linkedin.com/in/meghansh-agarwal-52000b1bb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDmIWEGoORQ2qE6daAX10tw%3D%3D" target="_blank" rel="noreferrer">
+         
+          <img src={LinkedIn} alt="" /></a>
+        
           <img src={Instagram} alt="" />
         </div>
       </div>
